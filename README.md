@@ -10,8 +10,8 @@
 <h3 align="left"> Languaged and Tools: </h3>
 <p align="left">
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1040893907241816066/1245809210026102845/images.png?ex=665a19bd&is=6658c83d&hm=a2898ea3de46317b3b13c5e07658e9a9251c393097e73c84c3c5681be10ad28b&" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw2ZVbkcDiRI52AEgAq6TO-m&ust=1717181131131000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDSi66EtoYDFQAAAAAdAAAAABAE" alt="C++" width="40" height="40"/> </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1040893907241816066/1245809199162851405/images_1.jpg?ex=665a19bb&is=6658c83b&hm=cac10c328fff1adc8d822ac4736a87169436771ed340b5b09711fd439a12e60f&" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpython&psig=AOvVaw0nmss4-ZUVJ45uooM3L8Ge&ust=1717181067418000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjAgY6EtoYDFQAAAAAdAAAAABAE" alt="Python" width="40" height="40"/> </a>
 
 </p>
