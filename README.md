@@ -7,7 +7,7 @@
   
 - 👨‍💻 All of my projects are available at https://github.com/YelvDev/
   
-- 📫 How to reach me @y3lv on discord
+- 📫 @y3lv on discord
 </h3>
 
 <!---
