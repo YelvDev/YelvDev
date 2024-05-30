@@ -3,7 +3,7 @@
 
 <h3 align="left">
   
-- 🌱 I’m currently learning Python and CPP
+- 🌱 I’m currently learning Python and C++
   
 - 👨‍💻 All of my projects are available at https://github.com/YelvDev/
   
