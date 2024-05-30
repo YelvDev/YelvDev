@@ -10,8 +10,8 @@
 <h3 align="left"> Languaged and Tools: </h3>
 <p align="left">
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw2ZVbkcDiRI52AEgAq6TO-m&ust=1717181131131000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDSi66EtoYDFQAAAAAdAAAAABAE" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" width="40" height="40"/> </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpython&psig=AOvVaw0nmss4-ZUVJ45uooM3L8Ge&ust=1717181067418000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjAgY6EtoYDFQAAAAAdAAAAABAE" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="Python" width="40" height="40"/> </a>
 
 </p>
