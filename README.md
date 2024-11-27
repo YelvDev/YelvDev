@@ -3,7 +3,7 @@
 
 <p><strong>
 <ul>
-<li>🌱 I’m currently learning Py!</li> 
+<li>🌱 I’m currently learning Py and HTML!</li> 
   
 <li>👨‍💻 All of my projects are available at https://github.com/YelvDev/</li>
   
