@@ -2,10 +2,13 @@
 <h2 align="center"> A dedicated programmer with a penchant for programming from Egypt </h2>
 
 <p><strong>
-- 🌱 I’m currently learning Py!
+<ul>
+<li>🌱 I’m currently learning Py!</li> 
   
-- 👨‍💻 All of my projects are available at https://github.com/YelvDev/
+<li>👨‍💻 All of my projects are available at https://github.com/YelvDev/</li>
   
-- 📫 @y_lv on discord
+<li>📫 @y_lv on discord </li>
+</ul>  
+
 
 </strong>
